@@ -117,6 +117,9 @@ print(f'Prediction for X=55: {predicted_value:.4f}')
 Include screenshot of the generated data
 
 ### OUTPUT
+Generated data for Linear regression
+![image](https://github.com/user-attachments/assets/c3af0e10-6211-4ff5-8d69-f21e2c52644c)
+
 Training Loss Vs Iteration Plot
 
 ![image](https://github.com/user-attachments/assets/0b04c4ac-5864-495e-9b24-c0b8d6490644)
